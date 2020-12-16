@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![jjangsungwon's github stats](https://github-readme-stats.vercel.app/api?username=jjangsungwon&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjangsungwon&layout=compact)](https://github.com/jjangsungwon/github-readme-stats)
+-->
